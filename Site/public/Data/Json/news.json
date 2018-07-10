@@ -1,0 +1,22 @@
+{
+    "IdElement": "news",
+    "Slides": [
+        {
+            "Width": 100,
+            "Height": 100,
+            "ImgSource": "news\\news23bb21bb-9807-4302-a1ec-4c3cea473cf7.jpg",
+            "AltText": "",
+            "HeaderText": "Привет первая новость",
+            "RegularText": "тут немного текста"
+        },
+        {
+            "Width": 100,
+            "Height": 100,
+            "ImgSource": "news\\news0f14ff8e-d4e6-4251-8aed-56821f665dbe.jpg",
+            "AltText": "",
+            "HeaderText": "Еще одна новость интересно как ваши дела",
+            "RegularText": "просто текст и много-много текста"
+        }
+    ],
+    "Header": "Блог"
+}

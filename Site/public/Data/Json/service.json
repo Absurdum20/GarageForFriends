@@ -1,0 +1,34 @@
+{
+    "IdElement": "service",
+    "Header": "Услуги",
+    "Slides": [
+        {
+            "ImgSource": "service\\servicebf33f202-266f-4172-b20f-e18b6fa79833.png",
+            "AltText": "Компьютерная диагностика",
+            "HeaderText": "Компьютерная диагностика",
+            "RegularText": "",
+            "Price": 999
+        },
+        {
+            "ImgSource": "service\\service77bb93b1-6eb3-43f6-897e-9c5309c0e0eb.png",
+            "AltText": "Доводка двигателя",
+            "HeaderText": "Доводка двигателя",
+            "RegularText": "Увеличение ресурса, снижение потребления бензина, увеличение мощности",
+            "Price": 5999
+        },
+        {
+            "ImgSource": "service\\serviceaa04cfaa-f86c-4093-9cce-60bc5f51e24a.png",
+            "AltText": "Замена масла",
+            "HeaderText": "Плановая замена масла",
+            "RegularText": "",
+            "Price": 499
+        },
+        {
+            "ImgSource": "service\\serviced9658707-ce53-4e78-b07f-e66c8ef418da.png",
+            "AltText": "Ремонт подвески",
+            "HeaderText": "Ремонт подвески",
+            "RegularText": "Замена уплотнителей, уберем лишние шумы и биения",
+            "Price": 1999
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "IdElement": "slider",
+    "Slides": [
+        {
+            "ImgSource": "slider\\sliderf2419104-42a4-4a13-ad8f-63c9832d9eda.jpg",
+            "AltText": "Audi",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\sliderc4993773-13a6-406e-9e3f-b2cdd25d7bf1.jpg",
+            "AltText": "BMW",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slidere22175e3-bb4c-465a-8cef-dd8902a2dd04.jpg",
+            "AltText": "Mersedes",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slider02d33c51-3cb9-4019-91c3-945e20577594.jpg",
+            "AltText": "Toyota",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slider8d7005c9-0c62-4d85-bd14-ff065c765981.jpg",
+            "AltText": "WV",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\sliderd463e2f7-9fc8-470d-ac17-0df1596d28ee.jpg",
+            "AltText": "Subaru",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slider7e8b936c-d96f-49ad-87c1-35c2658d8403.jpg",
+            "AltText": "Mazda",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slider7c5d3785-4f67-4b9a-b7a4-5ca25171dc3e.jpg",
+            "AltText": "Honda",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\sliderd082440c-37ae-448d-a528-102326081ec8.jpg",
+            "AltText": "Nissan",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slider15e485c6-d61c-4c86-9523-44ee88062911.jpg",
+            "AltText": "Ford",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slider6c43507c-e42c-48e3-82f5-2502f0405ecd.jpg",
+            "AltText": "Opel",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\sliderc2447b09-6f12-4359-b540-63de3d0620c1.jpg",
+            "AltText": "Renault",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\slider29f372a0-d3fd-4881-8768-a7641dad359c.jpg",
+            "AltText": "Kia",
+            "HeaderText": "",
+            "RegularText": ""
+        },
+        {
+            "ImgSource": "slider\\sliderdf62cc2a-27f8-461c-9ee3-081a75377d83.jpg",
+            "AltText": "Hunday",
+            "HeaderText": "",
+            "RegularText": ""
+        }
+    ],
+    "Header": "Бренды"
+}
