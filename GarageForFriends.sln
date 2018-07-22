@@ -5,25 +5,25 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageForFriends", "GarageForFriends\GarageForFriends.csproj", "{DEEDA48D-7519-4946-B230-8C2B55CD9E59}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite", "WebSite\", "{553D155A-69FD-434B-BD16-1259CEE6E6DE}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Site", "Site\", "{553D155A-69FD-434B-BD16-1259CEE6E6DE}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_50983"
-		Debug.AspNetCompiler.PhysicalPath = "WebSite\"
+		Debug.AspNetCompiler.PhysicalPath = "Site\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50983\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_50983"
-		Release.AspNetCompiler.PhysicalPath = "WebSite\"
+		Release.AspNetCompiler.PhysicalPath = "Site\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50983\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50983"
-		SlnRelativePath = "WebSite\"
+		SlnRelativePath = "Site\"
 	EndProjectSection
 EndProject
 Global
